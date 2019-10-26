@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Spell4Wiki</string>
-    <string name="login">Login</string>
+    <string name="login">உள்நுழை</string>
     <string name="search_here">Search</string>
     <string name="upload">Upload</string>
     <string name="hint_before_record">Holding to record</string>
@@ -12,13 +12,13 @@
     <string name="select_language_response_msg">Now Your Language is %s</string>
     <string name="welcome_user">Welcome, %s</string>
     <string name="wiktionary">Wiktionary</string>
-    <string name="settings">Settings</string>
+    <string name="settings">அமைப்புகள்</string>
     <string name="logout">Logout</string>
     <string name="about">About</string>
     <string name="wiki_login">Wiki Login</string>
     <string name="user_name">User name</string>
-    <string name="password">Password</string>
-    <string name="skip">SKIP</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="skip">தவிர்</string>
     <string name="player">player</string>
     <string name="title_upload_audio">Upload Audio</string>
     <string name="message_upload_info">Uploading \n\"%s\" file…</string>
